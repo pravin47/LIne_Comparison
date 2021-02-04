@@ -38,7 +38,8 @@ public class Line_Comparison {
 		Double lenght1 = new Double(Lenght_of_Line1);
 		Double lenght2 = new Double(Lenght_of_Line2);
 		System.out.println(lenght1.equals(lenght2));
-
+		System.out.println(lenght1.compareTo(lenght2));
 	}
 
 }
+
