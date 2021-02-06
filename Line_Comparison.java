@@ -4,9 +4,6 @@ import java.util.*;
 
 public class Line_Comparison {
 
-public class LineComparison {
-
-
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("WELCOME TO LINE COMPARISON COMPUTATION PROGRAM ON MASTER BRANCH");
