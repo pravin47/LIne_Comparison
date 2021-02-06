@@ -2,8 +2,6 @@ package com.Line_compa;
 
 import java.util.*;
 
-public class Line_Comparison {
-
 public class LineComparison {
 
 
