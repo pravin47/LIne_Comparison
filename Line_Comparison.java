@@ -1,8 +1,12 @@
 package com.Line_compa;
 
 import java.util.*;
+<<<<<<< HEAD
 
 public class Line_Comparison {
+=======
+public class LineComparison {
+>>>>>>> uc1_Calculate_line_Lenght
 
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
